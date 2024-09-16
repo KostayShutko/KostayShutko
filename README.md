@@ -10,9 +10,15 @@ I am a senior software engineer with experience in designing and building applic
 </p>
 
 <h2 align="center">🥷 Open Source Projects</h2>
+<div>
 - ⚙️ https://github.com/KostayShutko/Manufacturing
-- https://github.com/KostayShutko/DependenciesProblemInDDD- 
+</div>
+<div>
+- https://github.com/KostayShutko/DependenciesProblemInDDD
+</div>
+<div>
 - https://github.com/KostayShutko/DomainOperations
+</div>
 
 
 <p align="center"> 
